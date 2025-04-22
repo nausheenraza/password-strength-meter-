@@ -62,7 +62,7 @@ def footer():
     st.caption(f"Password checked on {today}")
 
 # Main app
-st.title("🔐 Password Strength Meter")
+st.title("🔐 Password Strength Meter by Nausheen")
 st.write("Enter your password below to check its strength and get improvement suggestions.")
 
 # Initialize session state
